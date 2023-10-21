@@ -1,0 +1,167 @@
+[
+    {
+        "seller": "Shah Alam",
+        "productName": "Honda 125",
+        "category": "car",
+        "image": "https://imgctcf.aeplcdn.com/thumbs/p-nc-p-s600-ver4/images/cars/Honda-City-old-vs-Honda-City-New-What-are-the-changes.jpeg?q=75",
+        "location": "Bangshal,Dhaka,Bangladesh",
+        "resalePrice": "20000",
+        "originalPrice": "50000",
+        "years": "5",
+        "time": "17 Oct,2023"
+    },
+    {
+        "seller": "Jack asi",
+        "productName": "Honda 325",
+        "category": "car",
+        "image": "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/04/Honda-Integra.-e1618152906206.jpg",
+        "location": "Banani,Dhaka,Bangladesh",
+        "resalePrice": "35000",
+        "originalPrice": "100000",
+        "years": "7",
+        "time": "19 Oct,2023"
+    },
+    {
+        "seller": "Sushi asi",
+        "productName": "Honda Zv5",
+        "category": "car",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekK-NEnaoZczhEPWtozz-5QQTdlEKdSOX-A&usqp=CAU",
+        "location": "Dhanmondi,Dhaka,Bangladesh",
+        "resalePrice": "40000",
+        "originalPrice": "500000",
+        "years": "9",
+        "time": "22 Oct,2023"
+    },
+    {
+        "seller": "Jaeyd Khan",
+        "productName": "Honda N360",
+        "category": "car",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1969_Honda_N360_01.jpg",
+        "location": "Gulsan,Dhaka,Bangladesh",
+        "resalePrice": "20000",
+        "originalPrice": "80000",
+        "years": "15",
+        "time": "29 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda 3Z25",
+        "category": "car",
+        "image": "https://thumbs.dreamstime.com/b/old-yellow-sport-car-honda-civic-parked-old-yellow-vintage-two-doors-sport-car-honda-civic-parked-right-side-front-view-243188716.jpg",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "30000",
+        "originalPrice": "70000",
+        "years": "9",
+        "time": "27 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda 3Z25",
+        "category": "bike",
+        "image": "https://www.motorcycledaily.com/wp-content/uploads/2019/07/071119top-i2.jpg",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "35000",
+        "originalPrice": "80000",
+        "years": "9",
+        "time": "27 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda 3Z25",
+        "category": "bike",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrR4yM7nTMB55AV33mFqRZt6WfMceUNulHhA&usqp=CAU",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "25000",
+        "originalPrice": "60000",
+        "years": "9",
+        "time": "27 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda 3Z25",
+        "category": "bike",
+        "image": "https://imgd.aeplcdn.com/1280x720/bw/ec/21058/Honda-CB-Hornet-160R-2018-Side-124568.jpg?wm=0",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "20000",
+        "originalPrice": "70000",
+        "years": "9",
+        "time": "27 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda 3Z25",
+        "category": "bike",
+        "image": "https://c8.alamy.com/comp/FXJ438/an-old-honda-dirt-bike-in-cobblestone-street-FXJ438.jpg",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "30000",
+        "originalPrice": "70000",
+        "years": "9",
+        "time": "27 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda VB5",
+        "category": "bike",
+        "image": "https://www.banglamotor.net/images/honda/honda-x-blade-first1.jpg",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "25000",
+        "originalPrice": "50000",
+        "years": "6",
+        "time": "30 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda 3NV5",
+        "category": "Scooter",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/photogallery/202001/5_IT_1579167226164.JPG?VersionId=OSSqHZyG5_qpGhe1jro3wbr2pZ50gOTw&size=686:*",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "25000",
+        "originalPrice": "50000",
+        "years": "6",
+        "time": "30 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda N5",
+        "category": "Scooter",
+        "image": "data:image/jpeg;base64,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",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "25000",
+        "originalPrice": "50000",
+        "years": "6",
+        "time": "30 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda Z5",
+        "category": "Scooter",
+        "image": "https://media.newstrack.in/uploads/automobile-news/bike-news/Jan/22/big_thumb/honda-super_5a661f7548743.jpg",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "25000",
+        "originalPrice": "50000",
+        "years": "6",
+        "time": "30 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda 3Z5",
+        "category": "Scooter",
+        "image": "https://ridermagazine.com/wp-content/uploads/2021/02/2021-Honda-PCX-12.jpg",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "25000",
+        "originalPrice": "50000",
+        "years": "6",
+        "time": "30 Oct,2023"
+    },
+    {
+        "seller": "Jonny ailia",
+        "productName": "Honda 25",
+        "category": "Scooter",
+        "image": "https://www.pinder.org/storage/Honda%20Scooter.jpg?__SQUARESPACE_CACHEVERSION=1451842857382",
+        "location": "Wari,Dhaka,Bangladesh",
+        "resalePrice": "25000",
+        "originalPrice": "50000",
+        "years": "6",
+        "time": "30 Oct,2023"
+    }
+]
